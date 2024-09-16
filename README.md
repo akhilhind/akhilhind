@@ -1,4 +1,4 @@
-## Hi there!👋 I'm Akhil
+## Hi there! ![waving hand](https://link-to-your-waving-hand.gif) I'm Akhil
 
 I'm a passionate software engineer with a focus on backend development, cloud computing, and creating scalable solutions. I enjoy working with a variety of technologies and am always eager to learn new skills.
 
